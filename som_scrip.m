@@ -111,7 +111,7 @@ plot(8*ones(1000,1),linspace(0,0.035,1000),'r--');
 % without so many gurgitation. So here we tend to choose size (4,1) as our
 % determined map size. 
 
-%% after determining that 4*1 is good, that's see the pattern presented in each node
+%% after determining that 4*1 is good, let's see the pattern presented in each node
 
 
 load('som_4_1.mat');
